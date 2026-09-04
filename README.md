@@ -14,7 +14,6 @@ Senior platform and reliability engineer. Fifteen years running business-critica
 | Repo | What it shows |
 |---|---|
 | [homelab-infrastructure](https://github.com/AngelDIvanov/homelab-infrastructure) | Six-node k3s lab as code: Terraform/libvirt, Ansible, Prometheus/Grafana/Loki, GitLab CI, 13 runbooks, and a Claude-driven auto-heal loop with one-click approval in Slack. |
-| [release-platform](https://github.com/AngelDIvanov/release-platform) | Release console for ordered multi-service production deploys: GitHub Actions approval gates, Slack approval bot, rollback and failure handling. Stdlib Python plus one HTML file. |
 
 Most of my recent work is private product code: an AI recruiting engine (Django, Celery, PostgreSQL, explainable LLM scoring) and a Next.js regional directory with an AI enrichment pipeline. Happy to walk through either on a call.
 
