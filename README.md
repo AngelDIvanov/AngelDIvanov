@@ -8,3 +8,8 @@ Senior platform and reliability engineer. Fifteen years running business-critica
 - Observability and incident automation: Prometheus, Grafana, Loki, Dynatrace, PagerDuty, incident.io, Slack.
 - Agentic workflows for operations: alert to diagnosis to approved fix, with humans on the approve button.
 - Release engineering: approval-gated, ordered multi-service deploys that people can run without opening a terminal.
+
+**Selected work**
+
+- [certexp](https://github.com/AngelDIvanov/certexp) — TLS certificate expiry checker in Go: Nagios-style exit codes, JSON Lines and Prometheus output, stdlib-only, race-tested in CI.
+- [homelab-infrastructure](https://github.com/AngelDIvanov/homelab-infrastructure) — self-hosted DevOps lab as code: Terraform, Ansible, k3s, GitLab CI/CD, Prometheus/Grafana/Loki, 13 runbooks, postmortems, and a Claude-driven auto-healing loop with human-approved, allowlisted remediation.
